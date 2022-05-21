@@ -39,5 +39,5 @@ class InstagramBot:
 
 
 
-ksp = InstagramBot( '_sannn_______','$aN151001')
+ksp = InstagramBot( 'your user name','********')
 ksp.login()
